@@ -30,4 +30,3 @@ vim.opt.fillchars = {
 	foldsep = "│",
 	foldclose = "▸",
 }
-
